@@ -182,7 +182,7 @@ Word13.docx file in the Public Documents folder and adds text to it.
 ```
 
 > [!NOTE]
-> Notice that the **OpenAddAddToWordprocessingStream** method does not close the stream passed to it. The calling code must do that.
+> Notice that the **OpenAndAddToWordprocessingStream** method does not close the stream passed to it. The calling code must do that.
 
 Following is the complete sample code in both C\# and Visual Basic.
 
